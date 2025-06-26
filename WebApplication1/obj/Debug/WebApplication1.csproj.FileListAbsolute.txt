@@ -1,0 +1,47 @@
+D:\group-34\test\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\group-34\test\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\group-34\test\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\group-34\test\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\19-1-24\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\19-1-24\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\19-1-24\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\19-1-24\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\19-1-24\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\group-34\19-1-24\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\group-34\19-1-24\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\group-34\19-1-24\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\group-34\19-1-24\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\group-34\19-1-24\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\group-34\sms\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\group-34\sms\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\group-34\sms\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\group-34\sms\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\group-34\sms\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\group-34\sms\final sms\WebApplication1\bin\WebApplication1.dll
+D:\group-34\sms\final sms\WebApplication1\bin\WebApplication1.pdb
+D:\group-34\sms\final sms\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\group-34\sms\final sms\WebApplication1\obj\Debug\WebApplication1.dll
+D:\group-34\sms\final sms\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\g-34\final sms\WebApplication1\bin\WebApplication1.dll
+D:\g-34\final sms\WebApplication1\bin\WebApplication1.pdb
+D:\g-34\final sms\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\g-34\final sms\WebApplication1\obj\Debug\WebApplication1.dll
+D:\g-34\final sms\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\group-34\final sms\WebApplication1\bin\WebApplication1.dll
+D:\group-34\final sms\WebApplication1\bin\WebApplication1.pdb
+D:\group-34\final sms\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\group-34\final sms\WebApplication1\obj\Debug\WebApplication1.dll
+D:\group-34\final sms\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\final sms\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\final sms\WebApplication1\obj\Debug\WebApplication1.dll
+D:\final sms\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\final sms\WebApplication1\bin\WebApplication1.dll
+D:\final sms\WebApplication1\bin\WebApplication1.pdb
+D:\group-34\11-03\final sms\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\group-34\11-03\final sms\WebApplication1\obj\Debug\WebApplication1.dll
+D:\34\final sms\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\34\final sms\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Admin\Desktop\last\final sms\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\last\final sms\WebApplication1\obj\Debug\WebApplication1.dll
+E:\.netfsda\last\final sms\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\.netfsda\last\final sms\WebApplication1\obj\Debug\WebApplication1.dll

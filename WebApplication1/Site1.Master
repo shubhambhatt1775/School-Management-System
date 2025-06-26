@@ -1,0 +1,228 @@
+﻿
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <style>
+/*body {
+}
+
+.header{
+        height: 145px;
+    width: 100%;
+    background-color: #245A64;
+    font-size:25px;
+ 
+    }
+ .header h1
+ {
+     color:White;
+          position:absolute;
+     left:300px;     }
+.img
+{
+    position:absolute;
+    height:138px;
+    left:5px;
+    width:234px;
+    top: 8px;
+}
+
+.footer{
+        height: 350px;
+    width: 100%;
+    background-color: #245A64;
+}
+ .footer h1
+ {
+     color:White;
+         }
+ .footer h3
+ {
+     color:White;
+              }
+   .footer h4
+ {
+     color:White;
+             }
+  .navi
+  {
+      display:flex;
+      justify-content:space-around;
+      align-items:center;
+      padding:15px 0;
+       background-color:rgba(255,255,255,0.7);
+      }
+   .navi a
+ {
+     text-decoration:none;
+     color: #245A64;
+     padding:5px 10px;
+     }
+    .navi a:hover
+    {
+        border:none;
+        border-radius:8px;
+        background-color:#245A64;
+        color:White;
+        }*/
+        
+        /* General Reset */
+body, ul, li, a {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.header {
+    background-color: #002B5B; /* Dark blue */
+    color: #fff;
+    padding: 15px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    height:70px;
+}
+
+.containers {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.logo img {
+    height: 70px;
+}
+
+.navbar ul {
+    display: flex;
+    gap: 20px;
+}
+
+.navbar ul li a {
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    transition: color 0.3s;
+}
+
+.navbar ul li a:hover {
+    color: #FFA500; /* Highlight color */
+}
+
+.btn-login {
+    background-color: #FFA500;
+    color: #002B5B;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-login:hover {
+    background-color: #002B5B;
+    color: #FFA500;
+    border: 1px solid #FFA500;
+}
+
+@media (max-width: 768px) {
+    .navbar ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+ 
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+  
+        <header class="header">
+    <div class="containers">
+        <div class="logo">
+            <img src="media/school%20logo.jpg" alt="School Logo"/>  
+        </div>
+        <nav class="navbar">
+            <ul>
+                <li><a href="home.aspx">Home</a></li>
+                <li><a href="staff.aspx">Staff</a></li>
+                <li><a href="admission.aspx">Admission</a></li>
+                <li><a href="safflogin.aspx">Staff login</a></li>
+                <li><a href="leave.aspx">Leave</a></li>
+                <li><a href="timetabelhome.aspx">Time Table</a></li>
+                 <li><a href="About us.aspx">About Us</a></li>
+                <li><a href="adminlog.aspx" class="btn-login">Admin Login</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+
+       
+        <div>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        </div>
+        <center>
+        <footer style="background-color: #002B5B; color: white; padding: 20px 0;">
+    <div class="container">
+        <div class="row">
+            <!-- Navigation Links -->
+            <div class="col-md-4">
+                <h5>Quick Links</h5>
+                <ul class="list-unstyled">
+                    <li><a href="#home" style="color: #fff; text-decoration: none;">Home</a></li>
+                    <li><a href="#about" style="color: #fff; text-decoration: none;">About Us</a></li>
+                    <li><a href="#services" style="color: #fff; text-decoration: none;">Services</a></li>
+                    <li><a href="#contact" style="color: #fff; text-decoration: none;">Contact</a></li>
+                </ul>
+            </div>
+
+            <!-- Greeting Message -->
+            <div class="col-md-4 text-center">
+                <h5>Welcome to Our School </h5>
+                <p>We strive to provide quality education and a nurturing environment.</p>
+            </div>
+
+            <!-- Developer Info -->
+            <div class="col-md-4">
+                <h5>Developers</h5>
+                <ul class="list-unstyled">
+                    <li>
+                        <span>Shubham Bhatt</span> 
+                        <a href="https://www.instagram.com/shubhambhatt1775" target="_blank" style="color: #a1a1a1; text-decoration: none;">
+                            @shubhambhatt1775
+                        </a>
+                    </li>
+                    <li>
+                        <span>Abhijit Purohit</span> 
+                        <a href="https://www.instagram.com/rajpurohit.abhijit" target="_blank" style="color: #a1a1a1; text-decoration: none;">
+                            @rajpurohit.abhijit
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+
+        <hr style="border-top: 1px solid #555;">
+        <div class="text-center">
+            <p>&copy; 2024 All Rights Reserved.</p>
+        </div>
+    </div>
+</footer>
+</center>
+    
+    </form>
+</body>
+</html>
